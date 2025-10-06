@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " 1 ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "redecoratethefuture:composite"
+    },
+    "1": {
+      "item": "redecoratethefuture:composite"
+    }
+  },
+  "result": {
+    "id": "redecoratethefuture:composite_lamp",
+    "count": 1
+  }
+}
